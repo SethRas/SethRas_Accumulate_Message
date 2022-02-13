@@ -1,4 +1,10 @@
-﻿Option Explicit On
+﻿'Seth Rasmussen
+'RCET 0265
+'Spring 2022
+'AccumulateMessage function and test
+'https://github.com/SethRas/SethRas_Accumulate_Message.git
+
+Option Explicit On
 Option Strict On
 Option Compare Text
 
